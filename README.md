@@ -1,4 +1,5 @@
-# At-Home-Thyroid-Diagnosis-Model
+# At Home Thyroid Diagnosis-Model
+## Models like this will help people gauge their risk factors for varies diseases to guide their life decisions and improve health outcomes.
 
 # Overview
 This project applies machine learning to the field of medicine by training an automated diagnosis model for thyroid disorder detection. From a business perspective, such a predictive tool can be monetized through various avenues, including advertising, pharmaceutical sales related to thyroid medication, and future contract opportunities. Also, by offering individuals an easy-to-use tool to self-assess their thyroid disorder risk, they can become convinced to seek medical attention before symptoms worsen. This could lead to earlier diagnoses and more effective treatments, ultimately improving healthcare outcomes.
